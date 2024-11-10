@@ -1,1 +1,0 @@
-# SpeakSure-AI_generated_Fake_Voice_Detector
